@@ -1,2 +1,1 @@
-# Hello From Beijing 
-: )
+# Hello From Beijing : )
